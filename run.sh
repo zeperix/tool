@@ -28,7 +28,7 @@ red "Đã cài đặt aaPanel bản Trung thành công"
 
 # bẻ khoá aapanel bản hiện tại
 function panelcrack(){  
-bash <(curl -Ls https://raw.githubusercontent.com/overkillzero/tool/main/crack.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/zeperix/tool/main/crack.sh)
 red "Đã crack aaPanel xong, vui lòng login lại aaPanel"
 }
 # mở chặn speedtest
@@ -62,7 +62,7 @@ green "Xóa giới hạn tốc độ băng thông thành công!"
 }
 # chặn speedtest
 function blockspeed(){
-bash <(curl -Ls https://raw.githubusercontent.com/overkillzero/tool/main/blockspt.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/zeperix/tool/main/blockspt.sh)
 }
 
 function hacap(){

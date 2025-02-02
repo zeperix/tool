@@ -8,4 +8,4 @@ PS1="\n\[\033[0;31m\]┌─[\[\033[1;34m\]\u\[\033[1;33m\]@\[\033[1;36m\]localho
 EOF
 echo "PS1 đã được cập nhật, hãy kết nối lại"
 sleep 3
-logout
+exit
